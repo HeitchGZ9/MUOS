@@ -77,7 +77,7 @@ case $option in
         p=1
         z=1
 ;;
-  *) echo "${RED}Sorry, no clue what you ment with that..."
+  *) echo "${RED}Sorry, no clue what you meant with that..."
      sleep 1
      echo "Let's try again${DEF}";;
 esac
@@ -253,7 +253,7 @@ sleep 1
                                                         m=1
                                                         p=1
                                                         echo "I can do that!"                                           #####
-                                                        cp $source $destiny                                           ##the cpoy is successfull
+                                                        cp $source $destiny                                           ##the copy is successfull
                                                         sleep 1                                                         #####
                                                         echo "done!"
                                                         sleep 1
